@@ -8,7 +8,7 @@ public class SpringBootRestApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootRestApiApplication.class, args);
-		System.out.println("Hello Application &&");
+		System.out.println("Hello..");
 	}
 
 }
